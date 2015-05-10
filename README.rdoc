@@ -1,0 +1,5 @@
+My first "real" shot at Ruby on rails. 
+Nothing fancy just a simple implementation of a UI-less blog.
+
+Hope to build on this to create more useful web applications 
+using RoR.
